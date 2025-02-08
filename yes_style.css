@@ -24,4 +24,10 @@ body {
     margin: 0 auto;
 }
 .image2 img {
-    width: 
+    max-width: 720px;
+    height: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin: 0 auto;
+    padding: 20px;
+}
